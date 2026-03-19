@@ -1,0 +1,7 @@
+# Ignore Gradle wrapper files
+gradlew linguist-vendored
+gradlew.bat linguist-vendored
+gradle/** linguist-vendored
+
+# Ensure Java is counted
+*.java linguist-language=Java
